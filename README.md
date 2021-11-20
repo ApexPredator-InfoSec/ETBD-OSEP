@@ -5,7 +5,7 @@ The Offensive Security PEN-300 Evasion Techniques and Breaching Defenses course 
 
 The first portion is for the target enivronment to organize a list of target machines and their details, passwords/hashes that can be reused in the traget network, domain names and indetifiers, which machine is being used to route into the internal network, and maps of interdependencies and links. The second protion is specific to a target machine to required the details found and a check list to help jog the memory on what to look for. The last portion is a place to copy and paste the various payloads you have built and used thru out the course so they are available for reuse (note you may need to change the shell code if your IPs have changed).
 
-There will probably be additional updates to the list later.
+There will probably be additional updates to the list later. This is not designed to give you the answer but to help you organize your notes and help you remember what to look for. You can adapt the various questions to be more specific and include exact commands to run.
 
 Environment specific: 
 - Host list:
