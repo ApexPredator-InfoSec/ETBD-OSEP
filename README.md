@@ -7,7 +7,7 @@ The first portion is for the target enivronment to organize a list of target mac
 
 There will probably be additional updates to the list later.
 
-
+Environment specific: 
 - Host list:
 - 	IP:	Name:	Service/Role:
 - Credentials harvested:
@@ -18,12 +18,13 @@ There will probably be additional updates to the list later.
 - Machine use to route and proxy to internal network:
 - BloodHound maps to targets:
 
-Machine Name:
-IP:
-OS:
-Initial Foothold:
-Privilege Escalation:
-NMAP results:
+Target specific: 
+- Machine Name:
+- IP:
+- OS:
+- Initial Foothold:
+- Privilege Escalation:
+-NMAP results:
 
 Webserver:
 	• dirb results:
