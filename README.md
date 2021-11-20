@@ -8,15 +8,15 @@ The first portion is for the target enivronment to organize a list of target mac
 There will probably be additional updates to the list later.
 
 
-Host list:
-	IP:	Name:	Service/Role:
-Credentials harvested:
-hashes dumped:
-Domain names:
-Domain SIDs:
-Non-default domain groups and their members:
-Machine use to route and proxy to internal network:
-BloodHound maps to targets:
+- Host list:
+- 	IP:	Name:	Service/Role:
+- Credentials harvested:
+- hashes dumped:
+- Domain names:
+- Domain SIDs:
+- Non-default domain groups and their members:
+- Machine use to route and proxy to internal network:
+- BloodHound maps to targets:
 
 Machine Name:
 IP:
