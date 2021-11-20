@@ -24,17 +24,17 @@ Target specific:
 - OS:
 - Initial Foothold:
 - Privilege Escalation:
--NMAP results:
-
-Webserver:
-	• dirb results:
-	• nikto results:
-	□ Can you upload anything that will provide a shell?
-	□ Are there any e-mail addresses listed that can be used to e-mail a client-side attack?
-	□ SQL injection: 
-		○ Can you dump credentials? 
-		○ Can you get a reverse shell?
-	□ Command injection:
+- NMAP results:
+ 
+- Webserver:
+	- • dirb results:
+	- • nikto results:
+	- []□ Can you upload anything that will provide a shell?
+	- []□ Are there any e-mail addresses listed that can be used to e-mail a client-side attack?
+	- []□ SQL injection: 
+		- ○ Can you dump credentials? 
+		- ○ Can you get a reverse shell?
+	- [] □ Command injection:
 
 SQL Server:
 	□ enumerate DB users
